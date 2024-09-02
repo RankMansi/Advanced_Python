@@ -1,0 +1,5 @@
+CustomerID: ABC123, ProductID: 0987654321, ReviewDate: 2023-08-07, ReviewRating: 5, ReviewText: "Great book!"
+CustomerID: DEF456, ProductID: 1234567890, ReviewDate: 2023-08-06, ReviewRating: 5, ReviewText: "Interesting read."
+CustomerID: GHI789, ProductID: 5544332211, ReviewDate: 2023-08-05, ReviewRating: 3, ReviewText: "Not bad."
+CustomerID: JKL012, ProductID: 6677889900, ReviewDate: 2023-08-04, ReviewRating: 2, ReviewText: "Could be better."
+CustomerID: MNO345, ProductID: 1122334455, ReviewDate: 2023-08-03, ReviewRating: 1, ReviewText: "Didn't like it."
