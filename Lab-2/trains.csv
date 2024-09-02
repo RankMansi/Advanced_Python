@@ -1,0 +1,10 @@
+Train ID,Train Name,Source Station,Destination Station,Total Seats,Available Seats,Total Fare
+T123,Shatabdi Express,Gandhinagar,Surat,200,196,500
+T456,Rajdhani Express,Ahmedabad,Vadodara,250,198,500
+T789,Vande Bharat,Surat,Rajkot,300,286,500
+T111,Ahmedabad Kolkata Express,Ahmedabad,Kolkata,400,397,500
+T369,Rajkot Coimbatore Express,Rajkot,Coimbatore,450,410,500
+T545,Gujarat Superfast Express,Mumbai,Ahmedabad,500,494,500
+T284,Gujarat Queen,Valsad,Ahmedabad,350,290,500
+T885,Kerala Express,New Delhi,Kerala,400,389,500
+T696,Kutch Express,Mumbai,Bhuj,500,399,500
