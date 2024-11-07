@@ -1,0 +1,7 @@
+{
+    "country": "Canada",
+    "date": "2024-09-01",
+    "confirmed_cases": { "total": 200000, "new": 2000 },
+    "deaths": { "total": 5000, "new": 20 },
+    "recovered": { "total": 180000, "new": 1500 }
+}

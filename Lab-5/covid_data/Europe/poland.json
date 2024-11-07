@@ -1,0 +1,7 @@
+{
+    "country": "Poland",
+    "date": "2024-09-01",
+    "confirmed_cases": { "total": 300000, "new": 3000 },
+    "deaths": { "total": 10000, "new": 30 },
+    "recovered": { "total": 280000, "new": 2500 }
+}

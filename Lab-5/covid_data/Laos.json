@@ -1,0 +1,7 @@
+{
+    "country": "Laos",
+    "date": "2024-09-01",
+    "confirmed_cases": { "total": 5000, "new": 50 },
+    "deaths": { "total": 100, "new": 2 },
+    "recovered": { "total": 4800, "new": 45 }
+}

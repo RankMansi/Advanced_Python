@@ -1,0 +1,7 @@
+{
+    "country": "Antarctica",
+    "date": "2024-09-01",
+    "confirmed_cases": { "total": 1000, "new": 10 },
+    "deaths": { "total": 5, "new": 0 },
+    "recovered": { "total": 900, "new": 5 }
+}
